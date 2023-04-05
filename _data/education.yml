@@ -1,13 +1,17 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Doctorado en Educación
+  uni: Fundación Universidad del Norte. Barranquilla, Colombia
+  year: 2022 &mdash; Actualidad
+  summary: Educación en ciencia de datos
+ 
+- degree: Maestría en Ingeniería
+  uni: Universidad Eafit. Medellín, Colombia
+  year: 2019 &mdash; 2022
+  summary: Implementación de modelos de aprendizaje artificial en la predicción de ventas.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Ingeniería de Producción
+  uni: Universidad Eafit. Medellín, Colombia
+  year: 2012 &mdash; 2016
+  summary: Énfasis en diseño integrado de sistemas técnicos
+  
+
