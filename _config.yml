@@ -21,7 +21,7 @@ resume_contact_telephone:       "3122386367"
 resume_contact_address:         "Barranquilla, Colombia"
 
 resume_header_contact_info:     "Barranquilla, Colombia • marianaarboleda@uninorte.edu.co"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Mi tema de investigación se centra al rededor de la educación en Ciencia de Datos. Me interesa el desarrollo de habilidades de programación, pensamiento computacional y análisis de datos, para todas y todos.</p>"
 
@@ -29,7 +29,7 @@ resume_header_intro: "<p>Mi tema de investigación se centra al rededor de la ed
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work:        ""
 
 # Decide which sections to use
 # comment out to hide
