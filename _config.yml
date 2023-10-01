@@ -54,6 +54,8 @@ resume_social_links:
   #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
   #resume_medium_url:            "https://medium.com/@jglovier"
+  resume_download_url:          "https://github.com/marianaarboleda/hoja_de_vida/files/12777751/mariana_arboleda_hv.pdf"
+  resume_english_url:           "https://marianaarboleda.github.io/academic_cv/"
 resume_print_social_links:      true
 
 # Design settings
